@@ -1,2 +1,2 @@
-# threee-site
-Repository for juhroli.github.io/threee-site
+# threee-game
+Repository for juhroli.github.io/threee-game
