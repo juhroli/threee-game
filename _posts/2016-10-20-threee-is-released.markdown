@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "threee is released!"
-date:   2016-10-20 10:00:00 +0200
+date:   2016-10-20 00:00:00 +0200
 categories: threee
 ---
 
