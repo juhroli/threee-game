@@ -17,8 +17,8 @@ title: "A Tic-Tac-Toe game: threee Homepage"
 email: roland.juhaasz [at] gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A dynamic tile based tic-tac-toe Android game with endless gameplay and challenges.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "juhroli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/threee-game" # the subpath of your site, e.g. /blog
+url: "http://juhroli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: juhroli
 github_username:  juhroli
 
